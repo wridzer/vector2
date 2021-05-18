@@ -1,0 +1,3 @@
+C:/Users/wridz/CLionProjects/vector2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/wridz/CLionProjects/vector2/cmake-build-debug/CMakeFiles/vector2.dir
+C:/Users/wridz/CLionProjects/vector2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

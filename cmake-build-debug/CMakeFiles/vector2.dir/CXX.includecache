@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/wridz/CLionProjects/vector2/Vector2.cpp
+Vector2.h
+C:/Users/wridz/CLionProjects/vector2/Vector2.h
+
+C:/Users/wridz/CLionProjects/vector2/Vector2.h
+cmath
+-
+
+C:/Users/wridz/CLionProjects/vector2/main.cpp
+iostream
+-
+Vector2.h
+C:/Users/wridz/CLionProjects/vector2/Vector2.h
+
